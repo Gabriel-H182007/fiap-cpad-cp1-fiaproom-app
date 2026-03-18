@@ -58,6 +58,13 @@ Escaneie o QR Code que aparecerá no terminal usando o aplicativo Expo Go no seu
 
 Ou pressione a no terminal para abrir no emulador Android, ou i para o simulador iOS.
 
+## Screenshots
+
+![Tela 1](./tela1.png)
+![Tela 2](./tela2.png)
+![Tela 3](./tela3.png)
+![Demonstração](./Demonstração.gif)
+
 # 🛠️ Decisões Técnicas
 ## Estrutura do Projeto
 
@@ -79,11 +86,5 @@ Separação clara entre telas
 
 Navegação fluida entre funcionalidades
 
-## Screenshots
-
-![Tela 1](./tela1.png)
-![Tela 2](./tela2.png)
-![Tela 3](./tela3.png)
-![Demonstração](./demonstração.gif)
 
 
