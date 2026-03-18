@@ -81,9 +81,9 @@ Navegação fluida entre funcionalidades
 
 ## Screenshots
 
-![Tela 1](./assets/tela1.png)
-![Tela 2](./assets/tela2.png)
-![Tela 3](./assets/tela3.png)
-![Demonstração](./assets/demonstração.gif)
+![Tela 1](./tela1.png)
+![Tela 2](./tela2.png)
+![Tela 3](./tela3.png)
+![Demonstração](./demonstração.gif)
 
 
