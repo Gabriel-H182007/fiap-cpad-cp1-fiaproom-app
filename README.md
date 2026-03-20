@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-**FiapRoom:** O FiapRoom é um aplicativo desenvolvido para ajudar os estudantes da FIAP a descobrir de maneira fácil e ágil quais salas estão livres para estudos.
+**FiapRoom:** O FiapRoom é um aplicativo desenvolvido para solucionar um problema recorrente na FIAP: a dificuldade em encontrar salas livres para estudos. Muitas vezes, os alunos perdem tempo procurando espaços disponíveis ou precisam recorrer a funcionários para obter essa informação. Com isso, o app surge com uma solução para agilizar e facilitar a rotina dos estudantes.
 
 
 **Operação FIAP Escolhida:** A operação da FIAP escolhida foi a de consulta de salas vazias, principalmente por ser algo que afeta diariamente inúmeros alunos da faculdade que buscam salas livres para estudar e realizar suas atividades. Atualmente, essa solução ainda não foi implementada nos sites e aplicativos da FIAP, o que torna o app um  recurso eficiente, permitindo que os estudantes consultem a disponibilidade de salas em poucos segundos, sem precisar perguntar diretamente para nenhum funcionário.

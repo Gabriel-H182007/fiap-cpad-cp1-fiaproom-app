@@ -32,7 +32,7 @@ export default function Salas() {
         </Text>
  
         <TouchableOpacity onPress={() => router.back()}>
-          <Text style={styles.voltar}>← Voltar</Text>
+          <Text style={styles.botaoVoltar}>← Voltar</Text>
         </TouchableOpacity>
       </View>
     );
@@ -60,7 +60,7 @@ return (
   </View>
 ))}
       <TouchableOpacity onPress={() => router.back()}>
-        <Text style={styles.voltar}>← Voltar</Text>
+        <Text style={styles.botaoVoltar}>← Voltar</Text>
       </TouchableOpacity>
     </View>
   );
@@ -74,6 +74,6 @@ const styles = StyleSheet.create({
   info: {fontSize: 16, marginBottom: 8, fontWeight: 'bold', color: '#fff'},
   horario: {fontSize: 16, marginBottom: 8, fontWeight: 'bold', color: '#fff'},
   status: {fontSize: 16, marginBottom: 8, fontWeight: 'bold', color: '#fff'},
-  voltar: { fontSize: 20, color: '#E83D84', fontWeight: '600', textAlign: 'center', justifyContent: 'center', marginBottom: 20},
+  botaoVoltar: { fontSize: 20, color: '#E83D84', fontWeight: '600', textAlign: 'center', justifyContent: 'center', marginBottom: 20},
   vazio: {fontSize: 25, marginBottom: 20, marginTop: 30, fontWeight: 'bold',  textAlign: 'center', color: '#fff'},
 });

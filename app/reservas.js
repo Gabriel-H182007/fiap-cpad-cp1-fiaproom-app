@@ -34,7 +34,7 @@ export default function Reservas() {
                 </Text>
 
                 <TouchableOpacity onPress={() => router.back()}>
-                    <Text style={styles.voltar}>← Voltar ao menu</Text>
+                    <Text style={styles.botaoVoltar}>← Voltar ao menu</Text>
                 </TouchableOpacity>
             </View>
         );
@@ -67,7 +67,7 @@ export default function Reservas() {
             ))}
 
             <TouchableOpacity onPress={() => router.back()}>
-                <Text style={styles.voltar}>← Voltar</Text>
+                <Text style={styles.botaoVoltar}>← Voltar</Text>
             </TouchableOpacity>
         </View>
     );
@@ -83,6 +83,6 @@ const styles = StyleSheet.create({
   info: {fontSize: 16, marginBottom: 8, fontWeight: 'bold', color: '#fff'},
   horario: {fontSize: 16, marginBottom: 8, fontWeight: 'bold', color: '#fff'},
   textoAcao: {fontSize: 16, fontWeight: 'bold', color: '#FFD700'}, 
-  voltar: { fontSize: 20, color: '#E83D84', fontWeight: '600', textAlign: 'center', justifyContent: 'center', marginTop: 10, marginBottom: 20},
+  botaoVoltar: { fontSize: 20, color: '#E83D84', fontWeight: '600', textAlign: 'center', justifyContent: 'center', marginTop: 10, marginBottom: 20},
   mensagemSucesso: {fontSize: 22, marginBottom: 40, marginTop: 10, fontWeight: 'bold', textAlign: 'center', color: '#fff', lineHeight: 30},
 });
