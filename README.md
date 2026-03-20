@@ -40,10 +40,10 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL_DO_SEU_REPOSITORIO]
+   git clone https://github.com/Gabriel-H182007/fiap-cpad-cp1-fiaproom-app.git
 2. **Acesse a pasta do projeto**
     ```bash
-    cd [NOME_DA_PASTA_DO_PROJETO]
+    cd fiap-cpad-cp1-fiaproom-app
 3. **Instale as dependências:**
     ```bash
     npm install
