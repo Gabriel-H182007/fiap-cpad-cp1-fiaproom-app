@@ -68,7 +68,7 @@ Ou pressione a no terminal para abrir no emulador Android, ou i para o simulador
 # 🛠️ Decisões Técnicas
 ## Estrutura do Projeto
 
-O projeto foi desenvolvido utilizando React Native com Expo, com uma estrutura baseada em componentização. As responsabilidades foram separadas entre telas (screens) e componentes reutilizáveis (components), facilitando a organização do código e a manutenção. O arquivo App.js atua como ponto de entrada da aplicação.
+O projeto foi desenvolvido utilizando React Native com Expo, com uma estrutura baseada em componentização. As responsabilidades foram separadas entre telas (screens) e componentes reutilizáveis (components), facilitando a organização do código e a manutenção. A navegação é baseada em rotas dentro da pasta app/, de acordo com o Expo Router.
 
 ## Hooks Utilizados
 
@@ -78,7 +78,7 @@ useEffect: Utilizado para executar efeitos colaterais, como carregamento inicial
 
 ## Navegação
 
-A navegação foi estruturada utilizando biblioteca de navegação (ex: React Navigation), permitindo a transição entre diferentes telas do aplicativo.
+A navegação foi estruturada utilizando o Expo Router, permitindo a transição entre diferentes telas do aplicativo.
 
 Organização baseada em rotas
 
